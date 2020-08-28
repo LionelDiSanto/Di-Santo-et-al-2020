@@ -6,8 +6,9 @@
 # Aim
 ###
 
-# This script aims to simulate within-population resampling (TPSR, SRI) to estimate the number of maternal
-# families needed to capture 95% of seed morphological variation within each seed collection.
+# This script aims to simulate within-population resampling (TPSR, SRI) to provide raw data to
+# estimate the number of maternal families needed to capture 95% of seed morphological variation 
+# within each seed collection.
 
 #-----------------#
 # Simulation code #

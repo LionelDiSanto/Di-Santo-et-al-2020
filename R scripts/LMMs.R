@@ -6,7 +6,7 @@
 # Aim
 ###
 
-# This script aims to construct a linear mixed model (GLMM) using 
+# This script aims to construct a linear mixed model (LMM) using 
 # variation in Torrey pine seed morphology and evaluate the contribution of 
 # population (TPSR, SRI) and maternal ID (individual trees) to explaining
 # this variation.
